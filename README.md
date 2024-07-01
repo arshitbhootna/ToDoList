@@ -1,1 +1,1 @@
-Just a simple ToDolist web application to simplify your task.
+Just a simple ToDolist web application to simplify your daily task.
